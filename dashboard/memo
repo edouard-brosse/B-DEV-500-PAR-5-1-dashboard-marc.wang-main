@@ -1,0 +1,15 @@
+https://www.npmjs.com/package/react-toastify
+
+
+Docker commandes
+
+systemctl start docker
+
+docker-compose up -d --build
+
+docker-compose restart
+
+docker-compose up -d --build --remove-orphans
+
+go to image shell
+docker run -it b-dev-500-par-5-1-dashboard-marcwang_dashboard /bin/bash
